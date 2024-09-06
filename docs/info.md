@@ -13,7 +13,7 @@ Takes in 4 1-bit values and uses a pseudo-random generator to generate 4 random 
 
 ## How to test
 
-Use the clock to simulate values
+Use the clock to simulate values and see it work
 
 ## External hardware
 
